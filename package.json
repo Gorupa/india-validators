@@ -1,0 +1,39 @@
+{
+  "name": "india-validators",
+  "version": "0.1.0",
+  "description": "Client-side validation library for common Indian document and identifier formats — Aadhaar, PAN, GSTIN, IFSC, PIN code, mobile, vehicle, passport and UPI.",
+  "main": "india-validators.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "india",
+    "aadhaar",
+    "pan",
+    "gstin",
+    "ifsc",
+    "pincode",
+    "upi",
+    "validator",
+    "validation",
+    "javascript",
+    "indian-documents",
+    "fintech",
+    "kyc"
+  ],
+  "author": "gorupa <https://github.com/gorupa>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gorupa/india-validators.git"
+  },
+  "homepage": "https://gorupa.github.io/india-validators/demo/",
+  "bugs": {
+    "url": "https://github.com/Gorupa/india-validators/issues"
+  },
+  "files": [
+    "india-validators.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
