@@ -1,6 +1,6 @@
 # india-validators
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-india--validators-1a73e8?style=for-the-badge)](https://gorupa.github.io/india-validators/demo/demo/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-india--validators-1a73e8?style=for-the-badge)](https://gorupa.github.io/india-validators/demo/)
 
 [![npm](https://img.shields.io/npm/v/india-validators?style=for-the-badge&color=1a73e8)](https://www.npmjs.com/package/india-validators)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
